@@ -1,0 +1,44 @@
+html{
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: black
+    
+}
+
+h1{
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    color: white;
+
+}
+
+p{
+    font-size: 16px;
+    line-height: 2px;
+    
+
+}
+
+#foto1{
+    margin: 0 auto;
+    border: 10px solid blue;
+    border-radius: 40px;
+}
+#foto2{
+    margin: 0 auto;
+    border: 10px solid red;
+    border-radius: 40px;
+
+}
+#descricao{
+    color: white;
+    text-align: center;
+}
+#lista{
+    color: white;
+    text-align: center;
+}
+#imagens{
+    text-align: center;
+}
